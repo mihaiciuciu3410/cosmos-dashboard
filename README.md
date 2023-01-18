@@ -2,11 +2,6 @@
 
 A [Grafana](https://grafana.com/) dashboard compatible with all the [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) and [tendermint](https://github.com/tendermint/tendermint) based blockchains.
 
-## Preview
-
-![1](imgs/cosmos-overview.jpg)
-![2](imgs/irishub-overview.jpg)
-![3](imgs/instance-overview.jpg)
 
 ## How To
 
